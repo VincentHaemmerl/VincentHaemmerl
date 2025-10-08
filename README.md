@@ -18,6 +18,9 @@ I am working on a tool made in Wordpress with PHP, Css, HTML
 ## 📫 Connect With Me
 email: vincent@haemmerl.de
 
+## Fun Fact
+I`m working on Linux
+
 ---
 
 Thanks for visiting! Feel free to explore my repositories, check out my work, or connect with me.
