@@ -21,16 +21,3 @@ email: vincent@haemmerl.de
 ---
 
 Thanks for visiting! Feel free to explore my repositories, check out my work, or connect with me.
-
-```
-
----
-
-To refine and personalize your README, could you please share the following details?
-1. **Your profession or current role** (e.g., Software Engineer, Data Scientist, Student, etc.)
-2. **Top technical and non-technical skills** (e.g., languages, frameworks, soft skills)
-3. **Favorite or most notable projects** (with links if possible)
-4. **Any social links you'd like to include** (LinkedIn, X/Twitter, website, etc.)
-5. **A fun fact, hobby, or favorite quote**
-
-Once you provide these, I’ll tailor your README for maximum impact!
